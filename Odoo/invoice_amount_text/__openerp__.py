@@ -21,9 +21,9 @@
 ##############################################################################
 
 {
-    'name': 'Invoice Amount Text',
-    'version': '0.1',
-    'author': 'BENSIDHOUM Kheireddine Yacine',
+    'name': 'Invoice Amount Text Spanish',
+    'version': '0.2',
+    'author': 'ISOS EIRL based in the work of BENSIDHOUM Kheireddine Yacine',
     'website': '',
     'category': 'Accounting & Finance',
     'depends': [
